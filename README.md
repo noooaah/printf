@@ -1,1 +1,1 @@
-printf project
+printf project month 1
